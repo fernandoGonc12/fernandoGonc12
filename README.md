@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @fernandoGonc12, aka TioDoMarmitex
-- 👀 I’m interested in data science, python and robotics
-- 🌱 I’m currently learning about drones
-- 📫 Reach me via fer4br@gmail.com or goncalves.fernando@ufms.br
-- ⚡ Fun fact: I don't have a field yet, so I'm trying new things everyday to improve myself and understand what I like most
+- 👋 Hi, I’m @fernandoGonc12, also known as TioDoMarmitex.
+- 👀 I’m passionate about data science, Python, and robotics.
+- 🌱 I’m currently diving into the world of robotics and excited to learn even more about it.
+- 📫 You can reach me at fer4br@gmail.com or goncalves.fernando@ufms.br.
+- ⚡ Fun fact: I'm still exploring my niche, so I'm constantly experimenting with new things to discover what truly excites me.
